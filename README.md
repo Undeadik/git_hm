@@ -1,5 +1,3 @@
-# Git Homework (merge)
+# Git Homework 
 Автор: Жданкина Юлия Сергеевна
-Третья строка от feature-b
-Четвертая строка от feature-a
 Группа: М8О-104БВ-26
