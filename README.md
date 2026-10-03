@@ -1,5 +1,5 @@
-# Git Homework (изменено в feature-a)
+# Git Homework (изменено в rebase)
 Автор: Жданкина Юлия Сергеевна
-Третья строка от feature-a
+Третья строка от feature-b
 Четвертая строка от feature-a
 Группа: М8О-104БВ-26
