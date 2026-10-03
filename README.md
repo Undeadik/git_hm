@@ -1,4 +1,4 @@
-# Git Homework (изменено в feature-a)
+# Git Homework (merge)
 Автор: Жданкина Юлия Сергеевна
 Третья строка от feature-a
 Четвертая строка от feature-a
